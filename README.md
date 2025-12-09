@@ -1,6 +1,6 @@
-===========================
+======================================================
 PhantomChat - Secure P2P Messenger
-===========================
+======================================================
 
 PhantomChat is a ptp chat and file-sharing application 
 with ete encryption.
